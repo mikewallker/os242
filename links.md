@@ -13,5 +13,8 @@ Tutorial untuk melakukan operasi dasar pada file menggunakan terminal Linux. Pen
 * [What Is Cyber Security | How It Works? | Cyber Security In 7 Minutes | Cyber Security | Simplilearn](https://m.youtube.com/watch?v=inWWhr5tnEA)
 Video singkat ini memberikan gambaran besar tentang Cyber Security. Hal yang cukup menarik adalah penjelasan di video ini menggunakan contoh nyata untuk menjelaskan terminologi-terminologi yang ada.
 
+* [Encrypted tarballs with GnuPG and Tar](https://paulguerin.medium.com/encrypted-tarballs-with-gnupg-and-tar-ff040c759ed7)
+Bagi yang masih penasaran dan ingin belajar lebih tentang tarball dan GnuPG key, link ini bisa menjadi pilihan yang tepat. Selain berisi penjelasan, artikel tersebut juga menyediakan step-by-step cara membuat tarball dengan public key cipher, cara decrypt tarball, dan lain-lain
+
 <br>
 <hr>
