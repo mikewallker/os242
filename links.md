@@ -16,5 +16,8 @@ Video singkat ini memberikan gambaran besar tentang Cyber Security. Hal yang cuk
 * [Encrypted tarballs with GnuPG and Tar](https://paulguerin.medium.com/encrypted-tarballs-with-gnupg-and-tar-ff040c759ed7)
 Bagi yang masih penasaran dan ingin belajar lebih tentang tarball dan GnuPG key, link ini bisa menjadi pilihan yang tepat. Selain berisi penjelasan, artikel tersebut juga menyediakan step-by-step cara membuat tarball dengan public key cipher, cara decrypt tarball, dan lain-lain
 
+* [How to compress the whole directory using xz and tar in Linux](https://www.cyberciti.biz/faq/compress-the-whole-directory-using-xz-and-tar/)
+Membantu dalam mengerjakan "POPQUIZ W04-4: Create a compressed (xz) TARBALL". Berisi tutorial step-by-step yang mudah diikuti untuk melakukan compression. 
+
 <br>
 <hr>
