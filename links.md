@@ -34,5 +34,11 @@ Menjelaskan apa itu paging dan bagaimana kerjanya dalam virtual memory
 * [Asymmetric encryption](https://cloud.google.com/kms/docs/asymmetric-encryption)
 Membantu dalam mengerjakan POPQUIZ W05-1 TARBALL tentang asymmetric encryption
 
+* [Logical and Physical Address in Operating System](https://www.geeksforgeeks.org/logical-and-physical-address-in-operating-system/)
+Apa keterkaitan antara Logical dan Physical Address? Bagaimana cara menerjemahkan logical address ke physical address? Itu semua dibahas pada link ini.
+
+* [What Is Virtual Memory? Meaning, Architecture, Benefits, and Challenges](https://www.spiceworks.com/tech/devops/articles/what-is-virtual-memory/)
+Selain membahas Virtual Memory, dibahas juga apa yang kita dapatkan (keuntungan) dari adanya Virtual Memory dan apa tantangan yang dihadapinya 
+
 <br>
 <hr>
