@@ -40,5 +40,7 @@ Apa keterkaitan antara Logical dan Physical Address? Bagaimana cara menerjemahka
 * [What Is Virtual Memory? Meaning, Architecture, Benefits, and Challenges](https://www.spiceworks.com/tech/devops/articles/what-is-virtual-memory/)
 Selain membahas Virtual Memory, dibahas juga apa yang kita dapatkan (keuntungan) dari adanya Virtual Memory dan apa tantangan yang dihadapinya 
 
+* [fork() in C](https://www.geeksforgeeks.org/fork-system-call/)
+Penjelasan disertai dengan contoh kode tentang kegunaan fork() di C.
 <br>
 <hr>
