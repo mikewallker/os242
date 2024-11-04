@@ -42,5 +42,8 @@ Selain membahas Virtual Memory, dibahas juga apa yang kita dapatkan (keuntungan)
 
 * [fork() in C](https://www.geeksforgeeks.org/fork-system-call/)
 Penjelasan disertai dengan contoh kode tentang kegunaan fork() di C.
+
+* [Introduction of Process Synchronization](https://www.geeksforgeeks.org/introduction-of-process-synchronization/)
+Penjelasan dasar disertai FAQ, sangat recommend untuk belajar apa itu synchronization
 <br>
 <hr>
