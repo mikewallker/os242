@@ -45,5 +45,8 @@ Penjelasan disertai dengan contoh kode tentang kegunaan fork() di C.
 
 * [Introduction of Process Synchronization](https://www.geeksforgeeks.org/introduction-of-process-synchronization/)
 Penjelasan dasar disertai FAQ, sangat recommend untuk belajar apa itu synchronization
+
+* [6. Chapter 5: Compiling a Cross Toolchain - How to build Linux From Scratch (LFS) 12.2 - Tutorial](https://www.youtube.com/watch?v=vMdPHpPiy4Q)
+Sangat berguna untuk chapter 5 LFS, recommended kalo mau liat step-by-step secara real dan jika bingung mengikuti website lfs
 <br>
 <hr>
